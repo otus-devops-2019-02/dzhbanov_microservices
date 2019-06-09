@@ -1,3 +1,7 @@
 # dzhbanov_microservices
 dzhbanov microservices repository
-alalala
+
+ДЗ №1 
+-Установил докер
+-Позапускал контейнеры
+-Создал Образ
