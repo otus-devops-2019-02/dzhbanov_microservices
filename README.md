@@ -1,6 +1,13 @@
 # dzhbanov_microservices
 dzhbanov microservices repository
 
+ДЗ№3
+-Разбил приложение на микросервисы
+-Собрал образы
+-Оптимизировал UI
+-Подключил volume
+-убедился в работоспособности
+
 ДЗ№2 
 -Установил Docker machine
 -Подготовил проект Docker в GCP
