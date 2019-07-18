@@ -1,6 +1,15 @@
 # dzhbanov_microservices
 dzhbanov microservices repository
 
+ДЗ №4
+-Разобрался  network в docker.
+- Запустил проект в двух сетях
+- установил docker-compose
+- изменил docker-compose.yml 
+- вынес переменные
+- базовое имя проекта задается директорией. можно использовать ключ -p
+
+
 ДЗ№3
 -Разбил приложение на микросервисы
 -Собрал образы
