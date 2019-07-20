@@ -1,5 +1,13 @@
 # dzhbanov_microservices
 dzhbanov microservices repository
+ДЗ №5
+- Подняшл машину для GITLAB
+- Поднял GITLAB в DOCKER
+- Настроил pipeline
+- Настроил environments
+-Настроил дин. окружения
+
+
 
 ДЗ №4
 -Разобрался  network в docker.
