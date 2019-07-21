@@ -1,5 +1,20 @@
 # dzhbanov_microservices
 dzhbanov microservices repository
+
+ДЗ№6 
+ветка monitoring-1
+- Настроил Prometheus
+- собрал образ prometheus
+- prometheus.yml - описал endpoints
+- Проверил работу мониторинга
+- добавил сервис node-exporter
+- запушил образы в
+https://cloud.docker.com/repository/docker/dzhbanov11/prometheus
+https://cloud.docker.com/repository/docker/dzhbanov11/post
+https://cloud.docker.com/repository/docker/dzhbanov11/comment
+https://cloud.docker.com/repository/docker/dzhbanov11/ui
+ 
+
 ДЗ №5
 - Подняшл машину для GITLAB
 - Поднял GITLAB в DOCKER

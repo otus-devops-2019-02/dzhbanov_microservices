@@ -12,4 +12,5 @@ packer/packer.exe
 *.retry
 jdauphant.nginx
 /src/*.env
+/docker/*.env
 .env
