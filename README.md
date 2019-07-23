@@ -1,6 +1,14 @@
 # dzhbanov_microservices
 dzhbanov microservices repository
 
+ДЗ №7
+ветка monitoring-2
+- Поднял Grafana
+- Настроил дашборды
+- Настроил алертинг
+- Обновил образы
+
+
 ДЗ№6 
 ветка monitoring-1
 - Настроил Prometheus
